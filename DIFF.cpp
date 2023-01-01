@@ -3,10 +3,10 @@
 void main()
 {
   clrscr();
-  int a,b,diff=0;
+  float a,b,diff=0;
   cout<<"Enter two numbers " ;
   cin>>a>>b;  
   diff=a-b;
-  cout<<"Sum = "<<sum;
+  cout<<"Difference = "<<diff;
   getch();
 }  
