@@ -5,9 +5,9 @@ class xyz
 	private:
 		double radius;
 	public:
-		double result(double r)
+		double result(double rr)
 		{
-			radius = r;
+			radius = rr;
 			return 3.14*radius*radius;
 		}		
 };
