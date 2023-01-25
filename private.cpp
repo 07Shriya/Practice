@@ -14,6 +14,6 @@ class xyz
 int main()
 {
 	xyz obj1;
-	cout<<"The area of circle with radius 7 is "<<obj1.result(7);
+	cout<<"The area of circle with radius 7 is "<<obj1.result(7)<<endl;
 	return(0);
 }
